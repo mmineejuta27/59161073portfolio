@@ -5,7 +5,7 @@
 
 /* Some default document settings. */
 body {
-	color: #777777;
+	color: #ffffff;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	line-height: 30px;
 	text-align: left;
@@ -65,13 +65,13 @@ li.border {
 }
 
 a {
-	color: #777777;
+	color: #ffffff;
 	text-decoration: none;
 }
 
 /* Nav links turn teal on hover. */
 a:hover {
-  color: #4aaaa5;
+  color: #ffffff;
 }
 
 .icon {
@@ -93,7 +93,7 @@ a:hover {
 section	{
 	background-color: #ffffff;
 	float: left;
-	color: #777777;
+	color: #ffffff;
 	border: 2px solid #dddddd;
 }
 
@@ -123,7 +123,7 @@ footer {
 	background-color: #666666;
 	width: 100%;
 	border-bottom: none;
-	color: #777777;
+	color: #ffffff;
 	text-align: center;
 }
 
